@@ -1,32 +1,25 @@
 {
-         "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/1.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com",
+      "our_ads1_activation":"false",
+    "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt3/main/pomnicon1.png",
+    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talking.digital.horror.circus",
 
-    "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/2.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads2_activation":"true",
+    "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/barry3.png",
+    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.oddy.escape.barry.prison.obby.Parkour",
 
-    "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/3.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com",
-
-    "our_ads_inter_activation":"false",
-    "our_ads_inter_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/inter1.png",
-    "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
+    "our_ads3_activation":"true",
+    "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt3/main/barry5.png",
+    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak",
 
   "admob_app_id": "",
   "admob_banner": "",
   "admob_interstitial": "",
-  "admob_rewarded_video": "",
 
-  "unity_app_id": "",
+  "unity_app_id": "5436797",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
-  "unity_rewarded_video": "Rewarded_Android",
 
-  "appLovin_app_id": "",
-  "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000"
+  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_banner": "4dca8266def960fa",
+  "appLovin_interstitial": "61c66c02f71ab24f"
 }
