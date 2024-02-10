@@ -11,9 +11,9 @@
     "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Barry1cmpt3/main/barry5.png",
     "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.startgames.escape.barry.prison.obby.jailbreak",
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
+  "admob_app_id": "ca-app-pub-2033079489526847~8486688009",
+  "admob_banner": "ca-app-pub-2033079489526847/7860002041",
+  "admob_interstitial": "ca-app-pub-2033079489526847/6546920376",
 
   "unity_app_id": "5543203",
   "unity_banner": "Banner_Android",
